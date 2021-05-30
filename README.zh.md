@@ -19,7 +19,7 @@ python down.py
 请输入复制的抖音分享链接：https://v.douyin.com/JVFp8r5/
 100%|█████████████| 6/6 [00:00<00:00, 1515.37KB/s]
 ```
-3. [3xyaezs2t5k3srs_b.mp4](3xyaezs2t5k3srs_b.mp4)就是刚才那个测试链接下载的视频。
+3. [6904393356240047368.mp4](6904393356240047368.mp4)就是刚才那个测试链接下载的视频。
 # 打包
 ```bash
 git clone https://github.com/XavierJiezou/python-dy-down.git
