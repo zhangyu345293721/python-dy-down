@@ -14,7 +14,7 @@ git clone https://github.com/XavierJiezou/python-dy-down.git
 cd python-dy-down
 python down.py
 ```
-1. 输入[抖音](https://www.douyin.com/)短视频的分享链接, 例如: [https://v.kuaishou.com/5i7XWC](https://v.kuaishou.com/5i7XWC)。
+1. 输入[抖音](https://www.douyin.com/)短视频的分享链接, 例如: [https://v.douyin.com/JVFp8r5/](https://v.douyin.com/JVFp8r5/)。
 ```bash
 请输入复制的抖音分享链接：https://v.kuaishou.com/5i7XWC
 正在请求，预计需要3秒：
@@ -24,7 +24,7 @@ python down.py
 3. [3xyaezs2t5k3srs_b.mp4](3xyaezs2t5k3srs_b.mp4)就是刚才那个测试链接下载的视频。
 # 打包
 ```bash
-git clone https://github.com/XavierJiezou/python-ks-down.git
+git clone https://github.com/XavierJiezou/python-dy-down.git
 cd python-dy-down
 pipenv install
 pipenv shell
@@ -35,6 +35,6 @@ pyinstaller -F -i favicon.ico down.py
 ---
 注意：构建后的EXE文件放在`dist`文件夹中。
 # 下载
-> [dydown-1.0.0-win64.exe](https://github.com/XavierJiezou/python-dy-down/releases/download/1.0.0/ksdown-1.0.0-win64.exe)
+> [dydown-1.0.0-win64.exe](https://github.com/XavierJiezou/python-dy-down/releases/download/1.0.0/dydown-1.0.0-win64.exe)
 # 推荐
-> [python-dy-down](https://github.com/XavierJiezou/python-dy-down): 一个下载抖音无水印短视频的小程序。
+> [python-ks-down](https://github.com/XavierJiezou/python-ks-down): 一个下载快手无水印短视频的小程序。
