@@ -16,10 +16,8 @@ python down.py
 ```
 2. Input a video url from [douyin](https://www.douyin.com/), like: [https://v.douyin.com/JVFp8r5/](https://v.douyin.com/JVFp8r5/).
 ```bash
-请输入复制的快手分享链接：https://v.douyin.com/JVFp8r5/
-正在请求，预计需要3秒：
-100%|█████████████| 6/6 [00:00<00:00, 1983.12KB/s]
-下载完成，总计用时3秒。
+请输入复制的抖音分享链接：https://v.douyin.com/JVFp8r5/
+100%|█████████████| 6/6 [00:00<00:00, 1515.37KB/s]
 ```
 3. [6904393356240047368.mp4](6904393356240047368.mp4) is the video that just downloaded.
 # Unpack

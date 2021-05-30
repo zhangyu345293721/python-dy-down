@@ -16,10 +16,8 @@ python down.py
 ```
 1. 输入[抖音](https://www.douyin.com/)短视频的分享链接, 例如: [https://v.douyin.com/JVFp8r5/](https://v.douyin.com/JVFp8r5/)。
 ```bash
-请输入复制的抖音分享链接：https://v.kuaishou.com/5i7XWC
-正在请求，预计需要3秒：
-100%|█████████████| 6/6 [00:00<00:00, 1983.12KB/s]
-下载完成，总计用时3秒。
+请输入复制的抖音分享链接：https://v.douyin.com/JVFp8r5/
+100%|█████████████| 6/6 [00:00<00:00, 1515.37KB/s]
 ```
 3. [3xyaezs2t5k3srs_b.mp4](3xyaezs2t5k3srs_b.mp4)就是刚才那个测试链接下载的视频。
 # 打包
